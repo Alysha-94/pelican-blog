@@ -30,6 +30,8 @@ SOCIAL = (('Linkedin', 'https://www.linkedin.com/in/alysha-iannetta/'),
           ('GitHub', 'https://github.com/Alysha-94'),
           ('Send an email', 'mailto:alysha.iannetta@gmail.com'),)
 
+STATIC_PATHS = ['pdfs']
+
 # THEME = 'custom'
 
 DEFAULT_PAGINATION = 10
